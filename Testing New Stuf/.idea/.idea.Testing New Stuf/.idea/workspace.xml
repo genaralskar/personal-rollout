@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f2ce8fc-8de3-4305-acfe-8bbe4a80596e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DestructableObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <marker date="1529706665518" expanded="true" signature="41:716" ph="{...}" />
+                <marker date="1529706665518" expanded="true" signature="92:714" ph="{...}" />
+                <marker date="1529706665518" expanded="true" signature="275:367" ph="{...}" />
+                <marker date="1529706665518" expanded="true" signature="410:509" ph="{...}" />
+                <marker date="1529706665518" expanded="true" signature="536:587" ph="{...}" />
+                <marker date="1529706665518" expanded="true" signature="624:711" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetDestructionOnClick.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/SetDestructionOnClick.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+              <folding>
+                <marker date="1529706328639" expanded="false" signature="6:97" ph="..." />
+                <marker date="1529706328639" expanded="true" signature="149:291" ph="{...}" />
+                <marker date="1529706328639" expanded="true" signature="248:289" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DestructableObjectDatabase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+              <folding>
+                <marker date="1529706814026" expanded="true" signature="6:52" ph="..." />
+                <marker date="1529706814026" expanded="true" signature="75:1907" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="199:1691" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="378:488" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="407:438" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="555:714" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="595:649" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="657:710" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="747:877" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="801:873" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="931:1084" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1006:1044" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1052:1080" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1152:1395" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1227:1279" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1287:1332" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1360:1391" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1449:1493" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1553:1688" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1595:1668" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1629:1663" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1739:1905" ph="{...}" />
+                <marker date="1529706814026" expanded="true" signature="1852:1902" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DestructableObjectDatabaseEditor.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabaseEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding>
+                <marker date="1529707284290" expanded="true" signature="7:38" ph="..." />
+                <marker date="1529707284290" expanded="true" signature="61:418" ph="{...}" />
+                <marker date="1529707284290" expanded="true" signature="171:416" ph="{...}" />
+                <marker date="1529707284290" expanded="true" signature="214:413" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabaseEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/SetDestructionOnClick.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Persistant Destruction/DesturtableObjectDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Persistant Destruction/DestructableObjectDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Persistant Destruction/DestructableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Persistant Destructable Objects/ToggleDestroyOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Persistant Destructable Objects/SetDestructionOnClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabaseEditor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="296" />
+    <option name="y" value="97" />
+    <option name="width" value="1146" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Testing New Stuf" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f2ce8fc-8de3-4305-acfe-8bbe4a80596e" name="Default" comment="" />
+      <created>1529696498061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529696498061</updated>
+      <workItem from="1529696504131" duration="6502000" />
+      <workItem from="1529705670863" duration="1614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8116000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1529706665518" expanded="true" signature="41:716" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="92:714" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="275:367" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="410:509" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="536:587" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="624:711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding>
+            <marker date="1529706814026" expanded="true" signature="6:52" ph="..." />
+            <marker date="1529706814026" expanded="true" signature="75:1907" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="199:1691" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="378:488" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="407:438" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="555:714" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="595:649" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="657:710" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="747:877" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="801:873" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="931:1084" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1006:1044" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1052:1080" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1152:1395" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1227:1279" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1287:1332" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1360:1391" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1449:1493" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1553:1688" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1595:1668" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1629:1663" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1739:1905" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1852:1902" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Persistant Destruction/DestructableObjectDatabase.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Persistant Destruction/DestructableObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1529706665518" expanded="true" signature="41:716" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="92:714" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="275:367" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="410:509" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="536:587" ph="{...}" />
+            <marker date="1529706665518" expanded="true" signature="624:711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/SetDestructionOnClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <marker date="1529706328639" expanded="false" signature="6:97" ph="..." />
+            <marker date="1529706328639" expanded="true" signature="149:291" ph="{...}" />
+            <marker date="1529706328639" expanded="true" signature="248:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="73" column="27" selection-start-line="73" selection-start-column="27" selection-end-line="73" selection-end-column="27" />
+          <folding>
+            <marker date="1529706814026" expanded="true" signature="6:52" ph="..." />
+            <marker date="1529706814026" expanded="true" signature="75:1907" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="199:1691" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="378:488" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="407:438" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="555:714" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="595:649" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="657:710" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="747:877" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="801:873" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="931:1084" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1006:1044" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1052:1080" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1152:1395" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1227:1279" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1287:1332" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1360:1391" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1449:1493" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1553:1688" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1595:1668" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1629:1663" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1739:1905" ph="{...}" />
+            <marker date="1529706814026" expanded="true" signature="1852:1902" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Persistant Destructable Objects/DestructableObjectDatabaseEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <marker date="1529707284290" expanded="true" signature="7:38" ph="..." />
+            <marker date="1529707284290" expanded="true" signature="61:418" ph="{...}" />
+            <marker date="1529707284290" expanded="true" signature="171:416" ph="{...}" />
+            <marker date="1529707284290" expanded="true" signature="214:413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
