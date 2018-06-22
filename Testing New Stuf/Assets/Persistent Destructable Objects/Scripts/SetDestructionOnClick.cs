@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class SetDestructionOnClick : MonoBehaviour
 {
-	public DestructableObject obj;
+	public DestructibleObject obj;
 	public bool setDestruction = true;
 
 	private void OnMouseDown()

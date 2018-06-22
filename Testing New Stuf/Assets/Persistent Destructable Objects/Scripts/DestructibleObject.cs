@@ -2,12 +2,12 @@
 
 namespace genaralskar
 {
-	public class DestructableObject : MonoBehaviour
+	public class DestructibleObject : MonoBehaviour
 	{
 	
 		public GameObject undestroyedObj;
 		public GameObject destroyedObj;
-		public DestructableObjectDatabase database;
+		public DestructibleObjectDatabase database;
 		private bool destroyed = false;
 	
 		private void OnEnable()

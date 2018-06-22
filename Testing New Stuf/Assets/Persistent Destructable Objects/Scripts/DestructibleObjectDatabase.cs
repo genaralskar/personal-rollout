@@ -3,8 +3,8 @@ using UnityEngine;
 
 namespace genaralskar
 {
-	[CreateAssetMenu(menuName = "Destructable Object Database")]
-	public class DestructableObjectDatabase : ScriptableObject
+	[CreateAssetMenu(menuName = "Destructible Object Database")]
+	public class DestructibleObjectDatabase : ScriptableObject
 	{
 	
 		private List<ObjState> database;
@@ -19,7 +19,7 @@ namespace genaralskar
 			checkList = new List<ObjState>(database);	
 		}
 	
-		public void RegisterObject(DestructableObject obj, bool state)
+		public void RegisterObject(DestructibleObject obj, bool state)
 		{
 			if (ReturnObjState(obj) == null)
 			{
@@ -41,7 +41,7 @@ namespace genaralskar
 		}
 	
 	
-		public bool ReturnState(DestructableObject obj)
+		public bool ReturnState(DestructibleObject obj)
 		{
 			ObjState tempState = ReturnObjState(obj);
 			if (tempState != null)
@@ -54,7 +54,7 @@ namespace genaralskar
 			}
 		}
 	
-		public void UpdateObject(DestructableObject obj, bool newState)
+		public void UpdateObject(DestructibleObject obj, bool newState)
 		{
 			ObjState tempState = ReturnObjState(obj);
 			if (tempState != null)
@@ -77,7 +77,7 @@ namespace genaralskar
 			database = new List<ObjState>();
 		}
 	
-		private ObjState ReturnObjState(DestructableObject obj)
+		private ObjState ReturnObjState(DestructibleObject obj)
 		{
 			foreach (var objState in database)
 			{
@@ -93,10 +93,10 @@ namespace genaralskar
 	[System.Serializable]
 	public class ObjState
 	{
-		public DestructableObject obj;
+		public DestructibleObject obj;
 		public bool state;
 	
-		public ObjState(DestructableObject obj, bool state)
+		public ObjState(DestructibleObject obj, bool state)
 		{
 			this.obj = obj;
 			this.state = state;

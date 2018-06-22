@@ -4,14 +4,14 @@ using UnityEditor;
 
 namespace genaralskar
 {
-	[CustomEditor(typeof(DestructableObjectDatabase))]
-	public class DestructableObjectDatabaseEditor : Editor
+	[CustomEditor(typeof(DestructibleObjectDatabase))]
+	public class DestructibleObjectDatabaseEditor : Editor
 	{
 		public override void OnInspectorGUI()
 		{
 			base.OnInspectorGUI();
 
-			DestructableObjectDatabase d = target as DestructableObjectDatabase;
+			DestructibleObjectDatabase d = target as DestructibleObjectDatabase;
 			if (GUILayout.Button("Clear Database (Can't Undo, Be Careful!)"))
 				d.ResetDatabase();
 		}

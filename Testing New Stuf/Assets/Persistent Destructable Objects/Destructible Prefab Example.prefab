@@ -40,7 +40,7 @@ GameObject:
   - component: {fileID: 4020415230137402}
   - component: {fileID: 114622750396646570}
   m_Layer: 0
-  m_Name: Destrucable Prefab Example
+  m_Name: Destructible Prefab Example
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
