@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b26661d6bb7da754a852b2a8ec893aa3, type: 3}
+  m_Name: Torsoso1
+  m_EditorClassIdentifier: 
+  part: {fileID: 1000972742424082, guid: 8bb63f748a92c924b9df7503ea5507f1, type: 2}
+  weight: 1
+  armor: 1
+  partType: {fileID: 11400000, guid: ef642a02872ff9b419f5d6546ce0426d, type: 2}

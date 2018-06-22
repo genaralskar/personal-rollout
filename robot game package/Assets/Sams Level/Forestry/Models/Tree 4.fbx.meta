@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 77204c9598dbc014e817a0252b3c2ffb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: LargeTree:pCylinder1
+    100002: LargeTree:pCylinder2
+    100004: LargeTree:pCylinder3
+    100006: LargeTree:pCylinder4
+    100008: LargeTree:pCylinder5
+    100010: LargeTree:sphere_object1
+    100012: LargeTree:sphere_object2
+    100014: LargeTree:sphere_object3
+    100016: LargeTree:sphere_object4
+    100018: LargeTree:sphere_object5
+    100020: //RootNode
+    100022: Tree_4
+    100024: Trees_and_Bushes
+    400000: LargeTree:pCylinder1
+    400002: LargeTree:pCylinder2
+    400004: LargeTree:pCylinder3
+    400006: LargeTree:pCylinder4
+    400008: LargeTree:pCylinder5
+    400010: LargeTree:sphere_object1
+    400012: LargeTree:sphere_object2
+    400014: LargeTree:sphere_object3
+    400016: LargeTree:sphere_object4
+    400018: LargeTree:sphere_object5
+    400020: //RootNode
+    400022: Tree_4
+    400024: Trees_and_Bushes
+    2100000: Palm1_Tree_4_Texture
+    2300000: LargeTree:pCylinder1
+    2300002: LargeTree:pCylinder2
+    2300004: LargeTree:pCylinder3
+    2300006: LargeTree:pCylinder4
+    2300008: LargeTree:pCylinder5
+    2300010: LargeTree:sphere_object1
+    2300012: LargeTree:sphere_object2
+    2300014: LargeTree:sphere_object3
+    2300016: LargeTree:sphere_object4
+    2300018: LargeTree:sphere_object5
+    3300000: LargeTree:pCylinder1
+    3300002: LargeTree:pCylinder2
+    3300004: LargeTree:pCylinder3
+    3300006: LargeTree:pCylinder4
+    3300008: LargeTree:pCylinder5
+    3300010: LargeTree:sphere_object1
+    3300012: LargeTree:sphere_object2
+    3300014: LargeTree:sphere_object3
+    3300016: LargeTree:sphere_object4
+    3300018: LargeTree:sphere_object5
+    4300000: LargeTree:pCylinder1
+    4300002: LargeTree:pCylinder2
+    4300004: LargeTree:pCylinder3
+    4300006: LargeTree:pCylinder4
+    4300008: LargeTree:pCylinder5
+    4300010: LargeTree:sphere_object1
+    4300012: LargeTree:sphere_object2
+    4300014: LargeTree:sphere_object3
+    4300016: LargeTree:sphere_object4
+    4300018: LargeTree:sphere_object5
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Palm1_Tree_4_Texture
+    second: {fileID: 2100000, guid: 77cdf586679b42448b9c678fdde2ab9e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

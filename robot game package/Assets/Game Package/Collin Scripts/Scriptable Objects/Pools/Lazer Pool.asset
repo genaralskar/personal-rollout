@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc5d52bfdfac046448d8225982b18c39, type: 3}
+  m_Name: Lazer Pool
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1217617503432662, guid: 4ab2536d3c1bcb34295e3bbe2ee4c899, type: 2}
+  size: 1

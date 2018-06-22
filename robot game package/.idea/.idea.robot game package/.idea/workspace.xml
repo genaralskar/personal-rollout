@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cb8d570-8d7f-4f63-97f3-c73250d901d7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RaiseEventOnDrag.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <marker date="1529436530360" expanded="false" signature="6:113" ph="..." />
+                <marker date="1529436530360" expanded="true" signature="136:688" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="225:684" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="351:391" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="446:503" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="538:677" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="558:673" ph="{...}" />
+                <marker date="1529436530360" expanded="true" signature="593:621" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotateToInput.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <folding>
+                <marker date="1529438527927" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529438527927" expanded="true" signature="101:697" ph="{...}" />
+                <marker date="1529438527927" expanded="true" signature="147:695" ph="{...}" />
+                <marker date="1529438527927" expanded="true" signature="288:330" ph="{...}" />
+                <marker date="1529438527927" expanded="true" signature="354:619" ph="{...}" />
+                <marker date="1529438527927" expanded="true" signature="650:692" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatConstant.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1527005135000" expanded="false" signature="6:118" ph="..." />
+                <marker date="1527005135000" expanded="true" signature="184:303" ph="{...}" />
+                <marker date="1527005135000" expanded="true" signature="262:301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hurtbox.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1528951909331" expanded="false" signature="6:134" ph="..." />
+                <marker date="1528951909331" expanded="true" signature="157:593" ph="{...}" />
+                <marker date="1528951909331" expanded="true" signature="197:591" ph="{...}" />
+                <marker date="1528951909331" expanded="true" signature="392:585" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+              <folding>
+                <marker date="1528951950313" expanded="false" signature="6:142" ph="..." />
+                <marker date="1528951950313" expanded="true" signature="165:1436" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="274:1434" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="466:864" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="734:764" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="904:1267" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="1064:1168" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="1306:1349" ph="{...}" />
+                <marker date="1528951950313" expanded="true" signature="1388:1431" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeaponManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LevelManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <marker date="1529434752732" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529434752732" expanded="true" signature="121:190" ph="{...}" />
+                <marker date="1529434752732" expanded="true" signature="177:186" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShakeObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+              <folding>
+                <marker date="1529017727799" expanded="false" signature="6:101" ph="..." />
+                <marker date="1529017727799" expanded="true" signature="143:2543" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="610:820" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="642:681" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="858:1004" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="963:1001" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="1036:2163" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="1126:2136" ph="{...}" />
+                <marker date="1529017727799" expanded="true" signature="2226:2541" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovePatternBase.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerHeightController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+              <folding>
+                <marker date="1529608028792" expanded="false" signature="6:197" ph="..." />
+                <marker date="1529608028792" expanded="true" signature="221:1203" ph="{...}" />
+                <marker date="1529608028792" expanded="true" signature="277:1201" ph="{...}" />
+                <marker date="1529608028792" expanded="true" signature="504:515" ph="{...}" />
+                <marker date="1529608028792" expanded="true" signature="551:608" ph="{...}" />
+                <marker date="1529608028792" expanded="true" signature="659:1198" ph="{...}" />
+                <marker date="1529608028792" expanded="true" signature="774:1104" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternGravity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39ED7F7E-A14A-4028-B908-33D5F6332159/62/0325d570/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Collin Scripts/Scripts/SpawnSOProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/TrackObjectLerp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Collin Scripts/Scripts/TrackObjectXYZ.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraTrackLerp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternGravity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="296" />
+    <option name="y" value="97" />
+    <option name="width" value="1146" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="robot game package" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cb8d570-8d7f-4f63-97f3-c73250d901d7" name="Default" comment="" />
+      <created>1528398286159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528398286159</updated>
+      <workItem from="1528398291304" duration="1424000" />
+      <workItem from="1528756774864" duration="2219000" />
+      <workItem from="1528827909202" duration="2439000" />
+      <workItem from="1528922433190" duration="711000" />
+      <workItem from="1528948108336" duration="4668000" />
+      <workItem from="1529002136957" duration="5000" />
+      <workItem from="1529017695708" duration="903000" />
+      <workItem from="1529433256290" duration="4367000" />
+      <workItem from="1529461805255" duration="599000" />
+      <workItem from="1529607746970" duration="882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18217000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.090618335" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <marker date="1529017727799" expanded="false" signature="6:101" ph="..." />
+            <marker date="1529017727799" expanded="true" signature="143:2543" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="610:820" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="642:681" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="858:1004" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="963:1001" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="1036:2163" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="1126:2136" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="2226:2541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding>
+            <marker date="1529436530360" expanded="false" signature="6:113" ph="..." />
+            <marker date="1529436530360" expanded="true" signature="136:688" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="225:684" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="351:391" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="446:503" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="538:677" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="558:673" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="593:621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1528951909331" expanded="false" signature="6:134" ph="..." />
+            <marker date="1528951909331" expanded="true" signature="157:593" ph="{...}" />
+            <marker date="1528951909331" expanded="true" signature="197:591" ph="{...}" />
+            <marker date="1528951909331" expanded="true" signature="392:585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+          <folding>
+            <marker date="1528951950313" expanded="false" signature="6:142" ph="..." />
+            <marker date="1528951950313" expanded="true" signature="165:1436" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="274:1434" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="466:864" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="734:764" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="904:1267" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1064:1168" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1306:1349" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1388:1431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternGravity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+          <folding>
+            <marker date="1529608028792" expanded="false" signature="6:197" ph="..." />
+            <marker date="1529608028792" expanded="true" signature="221:1203" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="277:1201" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="504:515" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="551:608" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="659:1198" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="774:1104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/SpawnSOProjectile.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/ShakeObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/PlayerMoveBehaviour.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/TrackObjectXYZ.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CameraTrackLerp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/SpawnSOProjectile.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TrackObjectLerp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/SpawnSOProjectile.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ArtisanDream/CharacterScripts/Scripts/PlayerMoveBehaviour.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/TrackObjectXYZ.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Collin Scripts/Scripts/ShakeObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CameraTrackLerp.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39ED7F7E-A14A-4028-B908-33D5F6332159/62/0325d570/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternGravity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <marker date="1529608028792" expanded="false" signature="6:197" ph="..." />
+            <marker date="1529608028792" expanded="true" signature="221:1203" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="277:1201" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="504:515" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="551:608" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="659:1198" ph="{...}" />
+            <marker date="1529608028792" expanded="true" signature="774:1104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1528951909331" expanded="false" signature="6:134" ph="..." />
+            <marker date="1528951909331" expanded="true" signature="157:593" ph="{...}" />
+            <marker date="1528951909331" expanded="true" signature="197:591" ph="{...}" />
+            <marker date="1528951909331" expanded="true" signature="392:585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="55" column="43" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+          <folding>
+            <marker date="1528951950313" expanded="false" signature="6:142" ph="..." />
+            <marker date="1528951950313" expanded="true" signature="165:1436" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="274:1434" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="466:864" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="734:764" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="904:1267" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1064:1168" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1306:1349" ph="{...}" />
+            <marker date="1528951950313" expanded="true" signature="1388:1431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+          <folding>
+            <marker date="1529017727799" expanded="false" signature="6:101" ph="..." />
+            <marker date="1529017727799" expanded="true" signature="143:2543" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="610:820" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="642:681" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="858:1004" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="963:1001" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="1036:2163" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="1126:2136" ph="{...}" />
+            <marker date="1529017727799" expanded="true" signature="2226:2541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1529434752732" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529434752732" expanded="true" signature="121:190" ph="{...}" />
+            <marker date="1529434752732" expanded="true" signature="177:186" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527005135000" expanded="false" signature="6:118" ph="..." />
+            <marker date="1527005135000" expanded="true" signature="184:303" ph="{...}" />
+            <marker date="1527005135000" expanded="true" signature="262:301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1529436530360" expanded="false" signature="6:113" ph="..." />
+            <marker date="1529436530360" expanded="true" signature="136:688" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="225:684" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="351:391" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="446:503" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="538:677" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="558:673" ph="{...}" />
+            <marker date="1529436530360" expanded="true" signature="593:621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding>
+            <marker date="1529438527927" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529438527927" expanded="true" signature="101:697" ph="{...}" />
+            <marker date="1529438527927" expanded="true" signature="147:695" ph="{...}" />
+            <marker date="1529438527927" expanded="true" signature="288:330" ph="{...}" />
+            <marker date="1529438527927" expanded="true" signature="354:619" ph="{...}" />
+            <marker date="1529438527927" expanded="true" signature="650:692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

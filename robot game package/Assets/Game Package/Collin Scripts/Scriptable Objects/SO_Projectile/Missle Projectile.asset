@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66fa0b780bff3694ab88d4e4033ededa, type: 3}
+  m_Name: Missle Projectile
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 1043124710412616, guid: d481166f450bedb4a81b12508595cd86,
+    type: 2}
+  pooledObject: {fileID: 11400000, guid: 6b0470e76771c4844aa8dc4f62898646, type: 2}
+  projectileLifetime: 5
+  cooldown: 0.2
+  parent: 0

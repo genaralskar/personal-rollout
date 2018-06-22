@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\genar\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_robot game package.2068153595.00" t="ExcludeRecursive" />
+    <e p="D:\GIT\rollout\robot game package" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Game Package" t="Include">
+          <e p="ArtisanDream" t="Include">
+            <e p="CharacterScripts" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="FloatConstant.cs" t="Include" />
+                <e p="FloatVariable.cs" t="Include" />
+                <e p="InputBase.cs" t="Include" />
+                <e p="MovePatternBase.cs" t="Include" />
+                <e p="Player.cs" t="Include" />
+                <e p="PlayerMoveBehaviour.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Unite2017" t="Include">
+              <e p="Assets" t="Include">
+                <e p="Code" t="Include">
+                  <e p="Events" t="Include">
+                    <e p="GameEvent.cs" t="Include" />
+                    <e p="GameEventListener.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="CameraTrackLerp.cs" t="Include" />
+          <e p="Collin Scripts" t="Include">
+            <e p="ChangeMovementType.cs" t="Include" />
+            <e p="EnemyHealthManagerMono.cs" t="Include" />
+            <e p="HealthManager.cs" t="Include" />
+            <e p="HealthManagerMono.cs" t="Include" />
+            <e p="Hitbox.cs" t="Include" />
+            <e p="Hurtbox.cs" t="Include" />
+            <e p="ObjectPooler.cs" t="Include" />
+            <e p="ProjectileController.cs" t="Include" />
+            <e p="Robot Builder" t="Include">
+              <e p="Scriptable Object" t="Include">
+                <e p="PartType.cs" t="Include" />
+                <e p="Robot.cs" t="Include" />
+                <e p="RobotBuilder.cs" t="Include" />
+                <e p="RobotMakerV2.cs" t="Include" />
+                <e p="RobotPartBase.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scriptable Objects" t="Include">
+              <e p="SO Scripts" t="Include">
+                <e p="PlayRandomAudio.cs" t="Include" />
+                <e p="SO_CurrentPlayerState.cs" t="Include" />
+                <e p="SO_Projectile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AudioEvent.cs" t="Include" />
+              <e p="AudioEventEditor.cs" t="Include" />
+              <e p="BulletController.cs" t="Include" />
+              <e p="CameraFollow.cs" t="Include" />
+              <e p="EnemyController.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="IPooledObject.cs" t="Include" />
+              <e p="Level Gen" t="Include">
+                <e p="LevelPieceController.cs" t="Include" />
+                <e p="ProceduralLevelGen.cs" t="Include" />
+              </e>
+              <e p="Level Manager" t="Include">
+                <e p="LevelManager.cs" t="Include" />
+              </e>
+              <e p="MissleController.cs" t="Include" />
+              <e p="MovePatternGravity.cs" t="Include" />
+              <e p="MovePatternUngroundedMovement.cs" t="Include" />
+              <e p="Plane" t="Include">
+                <e p="ColorChangeWithHeight.cs" t="Include" />
+                <e p="PlayerHeightController.cs" t="Include" />
+              </e>
+              <e p="Pool.cs" t="Include" />
+              <e p="RaiseEventOnDrag.cs" t="Include" />
+              <e p="RangedFloat.cs" t="Include" />
+              <e p="RotateToInput.cs" t="Include" />
+              <e p="ShakeObject.cs" t="Include" />
+              <e p="SpawnSOProjectile.cs" t="Include" />
+              <e p="TrackObjectXYZ.cs" t="Include" />
+              <e p="VirtualJoystick.cs" t="Include" />
+              <e p="WeaponManager.cs" t="Include" />
+            </e>
+            <e p="TriggerAnimationParam.cs" t="Include" />
+            <e p="UIHealth.cs" t="Include" />
+          </e>
+          <e p="ControllerInput.cs" t="Include" />
+        </e>
+        <e p="Sams Level" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ScrollTexture.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="robot game package.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
