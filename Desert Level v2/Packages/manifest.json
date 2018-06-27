@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "com.unity.render-pipelines.lightweight": "1.1.2-preview",
-    "com.unity.cinemachine": "2.2.0"
+    "com.unity.cinemachine": "2.2.0",
+    "com.unity.probuilder": "3.0.9",
+    "com.unity.shadergraph": "1.1.9-preview"
   }
 }
