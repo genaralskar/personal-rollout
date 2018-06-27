@@ -95,11 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeaponManager.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WeaponManager.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="525">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1529440108381" expanded="false" signature="6:115" ph="..." />
+                <marker date="1529440108381" expanded="true" signature="159:734" ph="{...}" />
+                <marker date="1529440108381" expanded="true" signature="336:478" ph="{...}" />
+                <marker date="1529440108381" expanded="true" signature="354:475" ph="{...}" />
+                <marker date="1529440108381" expanded="true" signature="511:730" ph="{...}" />
+                <marker date="1529440108381" expanded="true" signature="606:683" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,7 +155,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerHeightController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PlayerHeightController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -171,24 +179,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game Package/ControllerInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternGravity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/TriggerAnimationParam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Hurtbox.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/HealthManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39ED7F7E-A14A-4028-B908-33D5F6332159/62/0325d570/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RotateToInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatVariable.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Level Manager/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/FloatConstant.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39ED7F7E-A14A-4028-B908-33D5F6332159/62/0325d570/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/Plane/PlayerHeightController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/ChangeMovementType.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/ShakeObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game Package/ArtisanDream/CharacterScripts/Scripts/MovePatternBase.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -224,7 +232,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="296" />
     <option name="y" value="97" />
     <option name="width" value="1146" />
@@ -236,7 +244,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -253,6 +260,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,11 +305,12 @@
       <workItem from="1529433256290" duration="4367000" />
       <workItem from="1529461805255" duration="599000" />
       <workItem from="1529607746970" duration="882000" />
+      <workItem from="1530056832334" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18217000" />
+    <option name="totallyTimeSpent" value="18816000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +322,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -324,7 +333,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.090618335" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09115139" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
@@ -730,8 +739,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Game Package/Collin Scripts/Scripts/WeaponManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="525">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1529440108381" expanded="false" signature="6:115" ph="..." />
+            <marker date="1529440108381" expanded="true" signature="159:734" ph="{...}" />
+            <marker date="1529440108381" expanded="true" signature="336:478" ph="{...}" />
+            <marker date="1529440108381" expanded="true" signature="354:475" ph="{...}" />
+            <marker date="1529440108381" expanded="true" signature="511:730" ph="{...}" />
+            <marker date="1529440108381" expanded="true" signature="606:683" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
