@@ -214,9 +214,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1536301931884560}
-  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 3.14, y: 0, z: 0}
-  m_LocalScale: {x: 0.15207334, y: 0.15207328, z: 0.1520734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4016547344770876}
   - {fileID: 4362736692524702}
@@ -226,7 +226,7 @@ Transform:
   - {fileID: 4421524595014002}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!198 &198138165106752634
 ParticleSystem:
   m_ObjectHideFlags: 1
@@ -14204,7 +14204,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.09545213, g: 0.49395323, b: 0.6132076, a: 0}
+      maxColor: {r: 0.09545213, g: 0.49395323, b: 0.6132076, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -14266,7 +14266,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 17.07
+      scalar: 15
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -14319,7 +14319,7 @@ ParticleSystem:
     startSizeY:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 8.51
+      scalar: 10
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -17648,7 +17648,7 @@ ParticleSystem:
         m_RotationOrder: 4
     minKillSpeed: 0
     maxKillSpeed: 10000
-    radiusScale: 0.05
+    radiusScale: 0.18
     collidesWith:
       serializedVersion: 2
       m_Bits: 4294967295
@@ -18013,23 +18013,23 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 0.35686275}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.111739054, g: 0.764151, b: 0.27734402, a: 1}
-        key1: {r: 0.11859204, g: 0.31969294, b: 0.38679248, a: 0.61131024}
-        key2: {r: 0, g: 0, b: 0, a: 0}
+        key0: {r: 1, g: 1, b: 1, a: 1}
+        key1: {r: 0.111739054, g: 0.764151, b: 0.27734402, a: 0.61131024}
+        key2: {r: 0.11859204, g: 0.31969294, b: 0.38679248, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
         key6: {r: 0, g: 0, b: 0, a: 0}
         key7: {r: 0, g: 0, b: 0, a: 0}
         ctime0: 0
-        ctime1: 65535
-        ctime2: 0
+        ctime1: 14071
+        ctime2: 65535
         ctime3: 0
         ctime4: 0
         ctime5: 0
         ctime6: 0
         ctime7: 0
-        atime0: 10987
+        atime0: 18890
         atime1: 54356
         atime2: 65535
         atime3: 0
@@ -18038,7 +18038,7 @@ ParticleSystem:
         atime6: 0
         atime7: 0
         m_Mode: 0
-        m_NumColorKeys: 2
+        m_NumColorKeys: 3
         m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
@@ -32657,7 +32657,7 @@ ParticleSystemRenderer:
   m_ReflectionProbeUsage: 0
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 03da362128dc4d2499aaa649eceaf528, type: 2}
+  - {fileID: 2100000, guid: 582323a84b5b617439853271d24a8e83, type: 2}
   - {fileID: 2100000, guid: 03da362128dc4d2499aaa649eceaf528, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -32688,7 +32688,7 @@ ParticleSystemRenderer:
   m_SortingFudge: 0
   m_NormalDirection: 1
   m_RenderAlignment: 0
-  m_Pivot: {x: -0.25, y: 0, z: 0}
+  m_Pivot: {x: 0, y: 0, z: 0}
   m_UseCustomVertexStreams: 0
   m_EnableGPUInstancing: 1
   m_VertexStreams: 00010304

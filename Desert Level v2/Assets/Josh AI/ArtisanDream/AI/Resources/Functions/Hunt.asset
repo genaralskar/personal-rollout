@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efffa1b3b035e499aa80f0044fa75132, type: 3}
+  m_Name: Hunt
+  m_EditorClassIdentifier: 
+  GameAction: {fileID: 11400000, guid: 82c28f6542d964faf811ec67b3e4a350, type: 2}
