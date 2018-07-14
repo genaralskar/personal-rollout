@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\genar\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_testing new stuff.-466138043.00" t="ExcludeRecursive" />
+    <e p="D:\GIT\personal rollout\testing new stuff" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Damage Flash" t="Include">
+          <e p="ParticleFlash.cs" t="Include" />
+        </e>
+        <e p="Screen Shake" t="Include">
+          <e p="CameraShake.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="testing new stuff.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

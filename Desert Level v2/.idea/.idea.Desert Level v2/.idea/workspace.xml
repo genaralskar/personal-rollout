@@ -52,14 +52,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartActionBehaviour.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StartActionBehaviour.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Josh AI/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1528212564000" expanded="true" signature="95:207" ph="{...}" />
                 <marker date="1528212564000" expanded="true" signature="157:205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MovePatternUngroundedMovement.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <marker date="1531421277671" expanded="false" signature="6:116" ph="..." />
+                <marker date="1531421277671" expanded="true" signature="252:1094" ph="{...}" />
+                <marker date="1531421277671" expanded="true" signature="369:1091" ph="{...}" />
+                <marker date="1531421277671" expanded="true" signature="662:796" ph="{...}" />
+                <marker date="1531421277671" expanded="true" signature="803:832" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RaiseEventOnDrag.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1529436530000" expanded="false" signature="6:113" ph="..." />
+                <marker date="1529436530000" expanded="true" signature="136:688" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="225:684" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="351:391" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="446:503" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="538:677" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="558:673" ph="{...}" />
+                <marker date="1529436530000" expanded="true" signature="593:621" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,6 +125,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/ArtisanDream/Unite2017/Assets/Code/Events/GameEventListener.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/PlayerHeightController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Josh AI/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/ArtisanDream/Unite2017/Assets/Code/Events/GameEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Hurtbox.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -99,6 +134,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Hurtbox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +147,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="296" />
     <option name="y" value="97" />
     <option name="width" value="1146" />
@@ -123,6 +159,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -135,11 +176,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,11 +213,12 @@
       <workItem from="1530641943536" duration="1571000" />
       <workItem from="1530644059972" duration="937000" />
       <workItem from="1531342991204" duration="1178000" />
+      <workItem from="1531420830570" duration="1090000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3686000" />
+    <option name="totallyTimeSpent" value="4776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,23 +230,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15031983" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,6 +265,67 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/ArtisanDream/Unite2017/Assets/Code/Events/GameEventListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/PlayerHeightController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1530085299000" expanded="false" signature="6:197" ph="..." />
+            <marker date="1530085299000" expanded="true" signature="221:1138" ph="{...}" />
+            <marker date="1530085299000" expanded="true" signature="277:1136" ph="{...}" />
+            <marker date="1530085299000" expanded="true" signature="439:450" ph="{...}" />
+            <marker date="1530085299000" expanded="true" signature="486:543" ph="{...}" />
+            <marker date="1530085299000" expanded="true" signature="594:1133" ph="{...}" />
+            <marker date="1530085299000" expanded="true" signature="709:1039" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Hurtbox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <marker date="1531343572613" expanded="true" signature="6:134" ph="..." />
+            <marker date="1531343572613" expanded="true" signature="157:621" ph="{...}" />
+            <marker date="1531343572613" expanded="true" signature="197:619" ph="{...}" />
+            <marker date="1531343572613" expanded="true" signature="392:613" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/ArtisanDream/Unite2017/Assets/Code/Events/GameEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <marker date="1526580564000" expanded="true" signature="0:264" ph="/* ---------------------------------------------------------------------------- ... */" />
+            <marker date="1526580564000" expanded="false" signature="272:318" ph="..." />
+            <marker date="1526580564000" expanded="true" signature="429:1209" ph="{...}" />
+            <marker date="1526580564000" expanded="true" signature="444:559" ph="/// The list of listeners that this event will notify if it is raised. ... " />
+            <marker date="1526580564000" expanded="true" signature="698:831" ph="{...}" />
+            <marker date="1526580564000" expanded="true" signature="897:1015" ph="{...}" />
+            <marker date="1526580564000" expanded="true" signature="1083:1203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Josh AI/ArtisanDream/Generics/Scripts/Behaviours/StartActionBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1528212564000" expanded="true" signature="157:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/ArtisanDream/Unite2017/Assets/Code/Events/GameEventListener.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -337,8 +435,37 @@
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1528212564000" expanded="true" signature="95:207" ph="{...}" />
             <marker date="1528212564000" expanded="true" signature="157:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/MovePatternUngroundedMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <marker date="1531421277671" expanded="false" signature="6:116" ph="..." />
+            <marker date="1531421277671" expanded="true" signature="252:1094" ph="{...}" />
+            <marker date="1531421277671" expanded="true" signature="369:1091" ph="{...}" />
+            <marker date="1531421277671" expanded="true" signature="662:796" ph="{...}" />
+            <marker date="1531421277671" expanded="true" signature="803:832" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Basic Robot Package/Collin Scripts/Scripts/RaiseEventOnDrag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1529436530000" expanded="false" signature="6:113" ph="..." />
+            <marker date="1529436530000" expanded="true" signature="136:688" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="225:684" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="351:391" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="446:503" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="538:677" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="558:673" ph="{...}" />
+            <marker date="1529436530000" expanded="true" signature="593:621" ph="{...}" />
           </folding>
         </state>
       </provider>
