@@ -81,7 +81,7 @@ public class ShakeObject : MonoBehaviour
 
 	void Shake(Vector3 shakeRotVector, Vector3 shakeTransVector)
 	{
-	//	print("shaking by " + shakeRotVector);
+		print("shaking by " + shakeRotVector);
 		Vector3 newRotVector = shakeRotVector + objectStartRotLocal;
 		//objectToShake.transform.localRotation = Quaternion.Euler(newRotVector);
 

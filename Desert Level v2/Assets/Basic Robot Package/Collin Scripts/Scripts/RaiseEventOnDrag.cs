@@ -9,7 +9,6 @@ namespace genaralskar
 	{
 	
 		public GameEvent[] Events;
-		public GameEvent endDragEvent;
 		
 		public void OnPointerDown(PointerEventData eventData)
 		{
@@ -19,7 +18,6 @@ namespace genaralskar
 		public void OnPointerUp(PointerEventData eventData)
 		{
 			StopAllCoroutines();
-			endDragEvent.Raise();
 		}
 
 		private IEnumerator RaiseLoop()

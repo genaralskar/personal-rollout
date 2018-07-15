@@ -20,11 +20,10 @@ namespace genaralskar
 
 		public void Rotate()
 		{
-			Vector3 rotVector = new Vector3(floatX.SetFloat() + transform.localPosition.x, 
-											floatY.SetFloat() + transform.localPosition.y,
-											floatZ.SetFloat() + transform.localPosition.z);
+			Vector3 rotVector = new Vector3(floatX.SetFloat() + transform.position.x, 
+											floatY.SetFloat() + transform.position.y,
+											floatZ.SetFloat() + transform.position.z);
 			
-			print(rotVector);
 			transform.LookAt(rotVector);
 		}
 

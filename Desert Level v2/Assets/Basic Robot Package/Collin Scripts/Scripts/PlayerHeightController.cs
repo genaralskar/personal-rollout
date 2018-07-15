@@ -16,14 +16,33 @@ namespace genaralskar
 		public float robotHeight = 5;
 		public float planeHeight = 10;
 
+		[SerializeField]
+		private SO_CurrentPlayerState playerState;
+
 		private void Start()
 		{
-		
+		//	EventManager.OnPlayerChangedHeight += ChangeState;
 		}
 
-		public void Height(float height)
+		public void ChangeState()
 		{
-			StartCoroutine(ChangeHeight(height));
+			float height = 0;
+			switch (playerState.playerState)
+			{
+				case SO_CurrentPlayerState.CurrentPlayerState.Car:
+					height = carHeight;
+					break;
+				case SO_CurrentPlayerState.CurrentPlayerState.Robot:
+					height = robotHeight;
+					break;
+				case SO_CurrentPlayerState.CurrentPlayerState.Plane:
+					height = planeHeight;
+					StopAllCoroutines();
+					StartCoroutine(ChangeHeight(height));
+					break;
+				default:
+					break;
+			}
 			
 			
 		}

@@ -19,8 +19,7 @@ namespace genaralskar
 			print("Triggered");
 			WeaponManager otherWeapon = other.GetComponent<WeaponManager>();
 			healthManager.AddHealth(-otherWeapon.damage);
-			if(screenShake != null)
-				screenShake.Raise();
+			screenShake.Raise();
 			hitSound.Raise();
 		}
 		
