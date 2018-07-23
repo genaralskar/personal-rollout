@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a03f06e3cb5ee942ac31735fa48f061, type: 3}
+  m_Name: Player Gravity Move
+  m_EditorClassIdentifier: 
+  speed: 7
+  gravity: 70
+  InputX: {fileID: 11400000, guid: a875fcf5422622b43b38907cf7ba5c39, type: 2}
+  InputY: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputZ: {fileID: 11400000, guid: 7b0ee5ca854f9ed418d1128213911628, type: 2}
+  InputRotateX: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputRotateY: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  InputRotateZ: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}
+  JumpInput: {fileID: 11400000, guid: cc704c685359c8b44bb6d34b2a432f1a, type: 2}

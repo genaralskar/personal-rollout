@@ -1,5 +1,6 @@
 {
-    "dependencies": {
-        "com.unity.render-pipelines.lightweight": "1.1.4-preview"
-    }
+  "dependencies": {
+    "com.unity.render-pipelines.lightweight": "1.1.4-preview",
+    "com.unity.cinemachine": "2.2.0"
+  }
 }

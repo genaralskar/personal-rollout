@@ -25,6 +25,11 @@ public class ParticleFlash : MonoBehaviour
     {
         matDic = new Dictionary<Renderer, Material>();
 
+        if(!flashObjects.Contains(gameObject))
+        {
+            flashObjects.Add(gameObject);
+        }
+
         foreach(GameObject obj in flashObjects)
         {
             matDic.Add(obj.GetComponent<Renderer>(), obj.GetComponent<Renderer>().material);
@@ -38,7 +43,13 @@ public class ParticleFlash : MonoBehaviour
 		StartCoroutine(Flash());
 	}
 
-	private IEnumerator Flash()
+    private void OnParticleTrigger()
+    {
+        StopAllCoroutines();
+        StartCoroutine(Flash());
+    }
+
+    private IEnumerator Flash()
 	{
 		for (int i = 0; i < flashNumber; i++)
 		{
