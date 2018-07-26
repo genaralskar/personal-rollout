@@ -7,6 +7,7 @@ public class HealthManagerMono : MonoBehaviour
 {
 	
 	public HealthManager manager;
+	public ParticleSystem deathPartles;
 	
 	// Use this for initialization
 	private void OnEnable()

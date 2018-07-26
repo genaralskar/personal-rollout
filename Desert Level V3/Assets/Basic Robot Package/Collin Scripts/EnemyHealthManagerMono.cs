@@ -37,6 +37,9 @@ public class EnemyHealthManagerMono : HealthManagerMono
 
 	private void HealthAtZeroHandler()
 	{
+		if(deathPartles != null)
+			Instantiate(deathPartles, transform.position, transform.rotation);
+		
 		gameObject.SetActive(false);
 	}
 

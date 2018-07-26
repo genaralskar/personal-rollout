@@ -9,7 +9,7 @@ public class AiBehaviour : MonoBehaviour
 	public Animator Anims;
 	public string AnimationName = "Hunt";
 	
-	void Awake ()
+	void OnEnable ()
 	{
 		Anims = GetComponent<Animator>();
 		Anims.GetBehaviour<AIStates>().Agent = GetComponent<NavMeshAgent>();

@@ -32,7 +32,9 @@
           <e p="Collin Scripts" t="Include">
             <e p="Audio" t="Include">
               <e p="AudioEvent.cs" t="Include" />
-              <e p="AudioEventEditor.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AudioEventEditor.cs" t="Include" />
+              </e>
               <e p="PlayRandomAudio.cs" t="Include" />
             </e>
             <e p="ChangeMovementType.cs" t="Include" />
@@ -60,9 +62,11 @@
         <e p="CamMoveFromInput.cs" t="Include" />
         <e p="Collin AI Stuff" t="Include">
           <e p="AiKeepDistance.cs" t="Include" />
+          <e p="AiPatrolAroundPoint.cs" t="Include" />
           <e p="SetTransformStore.cs" t="Include" />
           <e p="StoreTransform.cs" t="Include" />
         </e>
+        <e p="DestroyOnEnable.cs" t="Include" />
         <e p="Josh AI" t="Include">
           <e p="ArtisanDream" t="Include">
             <e p="AI" t="Include">
@@ -165,6 +169,8 @@
           </e>
         </e>
         <e p="MoveCameraBack.cs" t="Include" />
+        <e p="RaiseEventOnEnable.cs" t="Include" />
+        <e p="SpawnParticlesOnDisable.cs" t="Include" />
         <e p="TurretFire.cs" t="Include" />
       </e>
       <e p="Desert Level V3.sln" t="IncludeFlat" />

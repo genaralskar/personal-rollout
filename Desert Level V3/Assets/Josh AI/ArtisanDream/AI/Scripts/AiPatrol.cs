@@ -14,7 +14,8 @@ public class AiPatrol : AiBase
 
 	private void OnEnable()
 	{
-		PatrolPoints.Clear();
+		if(PatrolPoints.Count > 0)
+			PatrolPoints.Clear();
 		AddPointsToList.Call += AddPatrolPoints;
 		AddPointList.Call += AddPatrolPointList;
 	}

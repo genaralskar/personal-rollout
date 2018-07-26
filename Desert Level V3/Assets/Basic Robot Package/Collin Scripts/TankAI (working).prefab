@@ -825,7 +825,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1713956897224220}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 1.0594659, y: -3.5025034, z: 23.26941}
   m_LocalScale: {x: 22.86555, y: 22.86555, z: 22.86555}
   m_Children:
@@ -836,7 +836,7 @@ Transform:
   - {fileID: 224401450838125556}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!4 &4939494001522070
 Transform:
   m_ObjectHideFlags: 1
@@ -1847,6 +1847,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   manager: {fileID: 11400000, guid: a1ce8bded17be9148be4a770e6ebdeb0, type: 2}
+  deathPartles: {fileID: 198238398625624082, guid: 0c177022419a7a84d954384de437a9f6,
+    type: 2}
   hurtboxes:
   - {fileID: 114975912401017112}
   healthUI: {fileID: 114347039777893066}
@@ -1978,6 +1980,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 198884938750426122}
   fireRate: 2
+  fireSound: {fileID: 11400000, guid: ee7565bb7dd86ae43958b1906d8adf03, type: 2}
 --- !u!114 &114949122163950088
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3013,7 +3016,7 @@ ParticleSystem:
       cycleCount: 1
       repeatInterval: 0.01
   SizeModule:
-    enabled: 1
+    enabled: 0
     curve:
       serializedVersion: 2
       minMaxState: 1

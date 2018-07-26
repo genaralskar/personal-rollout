@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using RoboRyanTron.Unite2017.Events;
 using UnityEngine;
 
 public class TurretFire : MonoBehaviour
@@ -7,6 +8,7 @@ public class TurretFire : MonoBehaviour
 
 	public ParticleSystem projectile;
 	public float fireRate = 2;
+	public GameEvent fireSound;
 	
 	private void OnTriggerEnter(Collider other)
 	{
@@ -19,6 +21,7 @@ public class TurretFire : MonoBehaviour
 		{
 			yield return new WaitForSeconds(fireRate);
 			projectile.Play();
+			fireSound.Raise();
 		}
 	}
 

@@ -15,16 +15,19 @@ public class GameAction : ScriptableObject
 
     public void ActionCall(object obj)
     {
-        Call(obj);
+        if(obj != null)
+            Call(obj);
     }
 
     public void ActionCall(float obj)
     {
-        Call(obj);
+        if(obj != null)
+            Call(obj);
     }
 
     public void ActionCall(Transform obj)
     {
-        Call(obj);
+        if(obj != null)
+            Call(obj);
     }
 }
