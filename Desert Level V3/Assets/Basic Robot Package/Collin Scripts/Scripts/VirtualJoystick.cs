@@ -15,23 +15,24 @@ public class VirtualJoystick : MonoBehaviour, IDragHandler, IPointerUpHandler, I
 
 	private Vector3 startPosition;
 	private Vector3 inputVector;
+	private Vector3 startPosWorld;
 
 	private void Start()
 	{
-		startPosition = transform.position;
+		startPosition = transform.localPosition;
 	}
 
 	public void OnDrag(PointerEventData eventData)
 	{
 		Vector3 newPos = Vector3.zero;
 		
-		int deltaX = (int)(eventData.position.x - startPosition.x);
+		int deltaX = (int)(eventData.position.x - startPosWorld.x);
 		newPos.x = deltaX;
 		
-		int deltaY = (int)(eventData.position.y - startPosition.y);
+		int deltaY = (int)(eventData.position.y - startPosWorld.y);
 		newPos.y = deltaY;
 		
-		transform.position = Vector3.ClampMagnitude(new Vector3( newPos.x, newPos.y, newPos.z), movementRange) + startPosition;
+		transform.localPosition = Vector3.ClampMagnitude(new Vector3( newPos.x, newPos.y, newPos.z), movementRange) + startPosition;
 		
 		inputVector = Vector3.ClampMagnitude(new Vector3(deltaX, deltaY, 0), movementRange);
 		inputVector /= movementRange;
@@ -43,13 +44,13 @@ public class VirtualJoystick : MonoBehaviour, IDragHandler, IPointerUpHandler, I
 
 	public void OnPointerUp(PointerEventData eventData)
 	{
-		transform.position = startPosition;
+		transform.localPosition = startPosition;
 		xInput.FloatValue = 0;
 		yInput.FloatValue = 0;
 	}
 
 	public void OnPointerDown(PointerEventData eventData) //needed so OnPointerUp works
 	{
-
+		startPosWorld = transform.position;
 	}
 }

@@ -170,6 +170,13 @@
         </e>
         <e p="MoveCameraBack.cs" t="Include" />
         <e p="RaiseEventOnEnable.cs" t="Include" />
+        <e p="Scene Management" t="Include">
+          <e p="ChangeScene.cs" t="Include" />
+          <e p="ContinueGame.cs" t="Include" />
+          <e p="LevelProgress.cs" t="Include" />
+          <e p="NewGame.cs" t="Include" />
+          <e p="PauseGame.cs" t="Include" />
+        </e>
         <e p="SpawnParticlesOnDisable.cs" t="Include" />
         <e p="TurretFire.cs" t="Include" />
       </e>

@@ -21,7 +21,7 @@ namespace genaralskar
 			Debug.Log("CurrentHealth = " + currentHealth.FloatValue);
 			currentHealth.FloatValue = Mathf.Clamp(currentHealth.FloatValue, 0, 1);
 	
-			if (currentHealth.FloatValue < .1f)
+			if (currentHealth.FloatValue <= 0f)
 			{
 				healthAtZero();
 			}
@@ -55,6 +55,8 @@ namespace genaralskar
 		{
 			SetHealth((float)amount / 100);
 		}
+
+		
 	}
 }
 

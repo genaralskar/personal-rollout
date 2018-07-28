@@ -21,7 +21,7 @@ public class EnemyHealthManagerMono : HealthManagerMono
 
 		healthUI.healthManager = manager;
 		
-		manager.healthAtZero += HealthAtZeroHandler;
+		//manager.healthAtZero += HealthAtZeroHandler;
 		manager.healthUpdate += HealthUpdateHandler;
 		
 		foreach (var hurtbox in hurtboxes)
@@ -35,13 +35,13 @@ public class EnemyHealthManagerMono : HealthManagerMono
 		
 	}
 
-	private void HealthAtZeroHandler()
+	/*private void HealthAtZeroHandler()
 	{
-		if(deathPartles != null)
-			Instantiate(deathPartles, transform.position, transform.rotation);
+		if(deathParticles != null)
+			Instantiate(deathParticles, transform.position + deathParticleSpawnOffset, transform.rotation);
 		
 		gameObject.SetActive(false);
-	}
+	}*/
 
 	
 }

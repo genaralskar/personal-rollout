@@ -14,10 +14,13 @@ public class AiPatrol : AiBase
 
 	private void OnEnable()
 	{
-		if(PatrolPoints.Count > 0)
+		if (PatrolPoints != null)
+		{
 			PatrolPoints.Clear();
-		AddPointsToList.Call += AddPatrolPoints;
-		AddPointList.Call += AddPatrolPointList;
+			AddPointsToList.Call += AddPatrolPoints;
+			AddPointList.Call += AddPatrolPointList;
+		}
+		
 	}
 
 	private void AddPatrolPoints(object obj)
