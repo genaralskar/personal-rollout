@@ -15,19 +15,25 @@ public class ParticleFlash : MonoBehaviour
 
     private Dictionary<Renderer, Material> matDic;
 
+
+	public EnemyHealthManagerMono healthManager;
+
 	private void Start()
 	{
         PopulateDictionary();
+		healthManager = gameObject.GetComponent<EnemyHealthManagerMono>();
+		Debug.Log(healthManager);
+		healthManager.manager.healthUpdate += StartFlash;
 	}
 
     private void PopulateDictionary()
     {
         matDic = new Dictionary<Renderer, Material>();
 
-        if(!flashObjects.Contains(gameObject))
-        {
-            flashObjects.Add(gameObject);
-        }
+//        if(!flashObjects.Contains(gameObject))
+//        {
+//            flashObjects.Add(gameObject);
+//        }
 
         foreach(GameObject obj in flashObjects)
         {
@@ -35,7 +41,9 @@ public class ParticleFlash : MonoBehaviour
         }
     }
 
-	private void OnParticleCollision(GameObject other)
+	
+	//instead of on damage, on health update
+	private void StartFlash(float newHealth)
 	{
 	//	print("Flashing");
 		StopAllCoroutines();

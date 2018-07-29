@@ -24,10 +24,11 @@ namespace genaralskar
 			if (currentHealth.FloatValue <= 0f)
 			{
 				healthAtZero();
+				return;
 			}
 			
 			healthUpdate(currentHealth.FloatValue);
-		//	Debug.Log("Sending Health Update Action");	
+//			Debug.Log("Sending Health Update Action");	
 		}
 	
 		public void SetHealth(float amount)

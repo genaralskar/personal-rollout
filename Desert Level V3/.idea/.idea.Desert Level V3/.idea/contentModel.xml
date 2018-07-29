@@ -66,6 +66,9 @@
           <e p="SetTransformStore.cs" t="Include" />
           <e p="StoreTransform.cs" t="Include" />
         </e>
+        <e p="Damage Flash" t="Include">
+          <e p="ParticleFlash.cs" t="Include" />
+        </e>
         <e p="DestroyOnEnable.cs" t="Include" />
         <e p="Josh AI" t="Include">
           <e p="ArtisanDream" t="Include">
