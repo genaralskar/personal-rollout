@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97e1e82253d240148aa01dcbe3c20e52, type: 3}
+  m_Name: Player Bot Weapon
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 1478613778497470, guid: 492e1a04f7e695e4398b468d33e034ab, type: 2}
+  projectileDamage: {fileID: 11400000, guid: f6a3090e7f2ecd94da7f9362c860f55a, type: 2}
+  cooldown: {fileID: 11400000, guid: f2a82cda8557d1b4ca5e27bdb9cd886b, type: 2}
+  damageMultiplier: {fileID: 0}
+  cooldownMultiplier: {fileID: 0}
+  fireSoundEvent: {fileID: 11400000, guid: 4b077971aa6a68541a3e92832c74be89, type: 2}
+  hitSoundEvent: {fileID: 11400000, guid: ae4dfa9cb817cd643b809964f9bda918, type: 2}
+  screenShakeOnHitEvent: {fileID: 11400000, guid: 2dcde5b2752679648b06dd5e11dcf9c2,
+    type: 2}

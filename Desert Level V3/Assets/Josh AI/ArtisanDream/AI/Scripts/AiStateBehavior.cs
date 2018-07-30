@@ -11,7 +11,7 @@ public class AiStateBehavior : StateMachineBehaviour
 	// OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
 	override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
 	{
-		StateMachine = animator.GetBehaviour<AIStates>() ;
+		StateMachine = animator.GetBehaviour<AIStates>();
 		StateMachine.CurrentAiBrain.AiBase = AiBase;
 	}
 

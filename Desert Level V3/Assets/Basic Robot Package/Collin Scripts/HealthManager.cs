@@ -28,7 +28,7 @@ namespace genaralskar
 			}
 			
 			healthUpdate(currentHealth.FloatValue);
-//			Debug.Log("Sending Health Update Action");	
+//			Debug.Log("Sending Health Update Action");
 		}
 	
 		public void SetHealth(float amount)

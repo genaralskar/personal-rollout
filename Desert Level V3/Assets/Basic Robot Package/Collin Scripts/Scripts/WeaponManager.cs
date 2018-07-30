@@ -1,31 +1,30 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using RoboRyanTron.Unite2017.Events;
 using UnityEngine;
 
 public class WeaponManager : MonoBehaviour
 {
-
-	public ParticleSystem particle;
-
 	public int damage
 	{
-		get { return (int)BotProjectileDamage.FloatValue; }
+		get 
+		{
+			return (weapon.damageMultiplier.FloatValue > 0 || weapon.damageMultiplier != null) ? //if multiplier isn't zero
+			(int)(weapon.projectileDamage.FloatValue * weapon.damageMultiplier.FloatValue) : //return with mutlilier
+			(int)weapon.projectileDamage.FloatValue; //else send just damage
+		}
 	}
-
-	public FloatConstant BotProjectileDamage;
-    public FloatVariable multiplier;
-	public float cooldown = 0.5f;
+	
+	public Weapon weapon;
 	private bool canFire = true;
-	public GameEvent Event;
 
 	public void Fire()
 	{
 		if (canFire)
 		{
 			canFire = false;
-			particle.Play();
-			Event.Raise();
+			weapon.Fire(transform);
 			StopAllCoroutines();
 			StartCoroutine(Cooldown());
 		}
@@ -36,7 +35,7 @@ public class WeaponManager : MonoBehaviour
 	//	print("Weapon Cooldown Start");
 		canFire = false;
 		float timer = 0;
-		while (timer < cooldown)
+		while (timer < weapon.cooldown.FloatValue)
 		{
 			timer += Time.deltaTime;
 			yield return new WaitForEndOfFrame();

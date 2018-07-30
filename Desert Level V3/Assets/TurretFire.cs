@@ -7,9 +7,9 @@ using UnityEngine;
 public class TurretFire : MonoBehaviour
 {
 
-	public ParticleSystem projectile;
-	public float fireRate = 2;
-	public GameEvent fireSound;
+	public Weapon weapon;
+	public Transform spawnPoint;
+	
 	public LayerMask obstacleLayer;
 	public LayerMask targetLayer;
 	public Transform raycastTransform;
@@ -31,21 +31,27 @@ public class TurretFire : MonoBehaviour
 	{
 		while (true)
 		{
-			yield return new WaitForSeconds(fireRate);
+			yield return new WaitForSeconds(weapon.cooldown.FloatValue);
 			if(PlayerBlockedCheck())
 			{
-				projectile.Play();
-				fireSound.Raise();
+				weapon.Fire(spawnPoint);
+//				projectile.Play();
+//				fireSound.Raise();
 			}
 		}
 	}
 
-	private bool PlayerBlockedCheck()
+	private void Update()
 	{
 		Debug.DrawRay(raycastTransform.position, raycastTransform.forward * 100, Color.green);
-		if(Physics.Raycast(raycastTransform.position, raycastTransform.forward, obstacleLayer))
+	}
+
+	private bool PlayerBlockedCheck()
+	{
+		RaycastHit hit;	
+		if(Physics.Raycast(raycastTransform.position, raycastTransform.forward, out hit, obstacleLayer))
 		{
-			print("false");
+			print("player blocked by: " + hit.collider.gameObject);
 			return false;
 		}
 		print("true");

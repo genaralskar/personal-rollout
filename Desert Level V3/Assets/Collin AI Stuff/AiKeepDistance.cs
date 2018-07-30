@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-[CreateAssetMenu(menuName = "AI Keep Distance")]
+[CreateAssetMenu(menuName = "AI/Keep Distance")]
 public class AiKeepDistance : AiBase
 {
 

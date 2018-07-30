@@ -12,28 +12,21 @@ namespace genaralskar
 		public HealthManager healthManager;
         [Range(0,100)]
         public float armor;
-		public GameEvent screenShake;
-		public GameEvent hitSound;
 		public float invincibleTime = .1f;
 
 		private void OnParticleCollision(GameObject other)
 		{
 			print("Hurtbox Triggered");
-			WeaponManager otherWeapon = other.GetComponent<WeaponManager>();
-            float damage;
+			Weapon otherWeapon = other.GetComponent<ParticleCallBack>().weapon;
+            float damage = otherWeapon.damage - armor;
 
-            if (otherWeapon.multiplier != null)
-                damage = (otherWeapon.damage * otherWeapon.multiplier.FloatValue) - armor;
-            else
-                damage = otherWeapon.damage - armor;
-			Debug.Log(otherWeapon.damage);
-			Debug.Log(damage);
-            damage = Mathf.Clamp(damage, 0, 100); //prevent damage from going negative
+            damage = Mathf.Clamp(damage, 1, 100); //prevent damage from going negative, and always does some damage
 			Debug.Log(damage);
             healthManager.AddHealth((int)-damage);
-			if(screenShake != null)
-				screenShake.Raise();
-			hitSound.Raise();
+			if(otherWeapon.screenShakeOnHitEvent != null)
+				otherWeapon.screenShakeOnHitEvent.Raise();
+			if(otherWeapon.hitSoundEvent != null)
+				otherWeapon.hitSoundEvent.Raise();
 		}
 		
 	}
