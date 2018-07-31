@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: cfb9d31dc991ffd47bab1ce7d80e95e8
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: Desert/Desert
+    400000: Desert/Desert/Transform
+    2100000: mat.Desert_Ground
+    2100002: mat.Desert_Ground_1
+    2100004: mat.Desert_Ground_2
+    2300000: Desert/Desert/MeshRenderer
+    2800000: Desert_Ground_Base Color
+    2800002: Desert_Ground_Normal
+    2800004: Desert_Ground_Metallic
+    2800006: Desert_Ground_1_Base Color
+    2800008: Desert_Ground_1_Normal
+    2800010: Desert_Ground_1_Metallic
+    2800012: Desert_Ground_2_Base Color
+    2800014: Desert_Ground_2_Normal
+    2800016: Desert_Ground_2_Metallic
+    3300000: Desert/Desert/MeshFilter
+    11400000: sbsar
+    11400002: graph0
+    11400004: graph1
+    11400006: graph2
+    13500000: Desert/Desert/SphereCollider
+    100100000: Desert
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 232528478, guid: 43a8bbf65be290d44ba52b94476242b9, type: 3}
+  mGraphInstanceData:
+  - graphLabel: Desert_Ground
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Desert_Ground\" label=\"\" >\n  <presetinput
+      identifier=\"rockcolor\" uid=\"1223381412\" type=\"3\" value=\"0.773585,0.714151,0.594785,1\"
+      />\n  <presetinput identifier=\"rocksdisorder\" uid=\"1223376699\" type=\"0\"
+      value=\"130\" />\n  <presetinput identifier=\"cracksscale\" uid=\"1223381111\"
+      type=\"4\" value=\"54\" />\n  <presetinput identifier=\"crackshardness\" uid=\"1223384969\"
+      type=\"0\" value=\"0.142\" />\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Metallic
+      alphaSource: Metallic
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100000, guid: cfb9d31dc991ffd47bab1ce7d80e95e8, type: 3}
+  - graphLabel: Desert_Ground_1
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Desert_Ground\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Metallic
+      alphaSource: Metallic
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100002, guid: cfb9d31dc991ffd47bab1ce7d80e95e8, type: 3}
+  - graphLabel: Desert_Ground_2
+    graphDescIndex: 0
+    generateAllOutputs: 0
+    generateMipMaps: 1
+    preset: " <sbspreset pkgurl=\"pkg://Desert_Ground\" label=\"\" >\n </sbspreset>\n"
+    shaderName: Standard
+    outputNames: Base Color,Normal,Metallic
+    texturePackingList:
+    - outputName: Base Color
+      alphaSource: Base Color
+    - outputName: Normal
+      alphaSource: Normal
+    - outputName: Metallic
+      alphaSource: Metallic
+    colorSpaceList:
+    - outputName: Base Color
+      bLinear: 0
+    - outputName: Normal
+      bLinear: 1
+    - outputName: Metallic
+      bLinear: 1
+    inputTextureMap: []
+    targetSettingList:
+    - label: Default
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: Standalone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    - label: iPhone
+      bOverride: 0
+      bLockRatio: 1
+      bHighQuality: 0
+      textureWidth: 0
+      textureHeight: 0
+      textureFormat: 0
+      loadBehavior: 0
+    material: {fileID: 2100004, guid: cfb9d31dc991ffd47bab1ce7d80e95e8, type: 3}

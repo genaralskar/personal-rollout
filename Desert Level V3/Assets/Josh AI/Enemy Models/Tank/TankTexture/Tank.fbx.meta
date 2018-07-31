@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: fe185f566695dec48b3fe3002c07a2ca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Exhaust1
+    100004: Exhaust2
+    100006: Left_Back_Wheel
+    100008: Left_Front_Wheel
+    100010: Left_Middle_Wheel
+    100012: pCylinder12
+    100014: pCylinder13
+    100016: pCylinder14
+    100018: pCylinder15
+    100020: pCylinder16
+    100022: pCylinder7
+    100024: pPipe1
+    100026: pPipe2
+    100028: pPipe3
+    100030: pPipe4
+    100032: pPipe5
+    100034: pPipe6
+    100036: Right_Back_Wheel
+    100038: Right_Front_Wheel
+    100040: Right_Middle_Wheel
+    100042: //RootNode
+    100044: TurretBase
+    100046: Wheels
+    400000: Body
+    400002: Exhaust1
+    400004: Exhaust2
+    400006: Left_Back_Wheel
+    400008: Left_Front_Wheel
+    400010: Left_Middle_Wheel
+    400012: pCylinder12
+    400014: pCylinder13
+    400016: pCylinder14
+    400018: pCylinder15
+    400020: pCylinder16
+    400022: pCylinder7
+    400024: pPipe1
+    400026: pPipe2
+    400028: pPipe3
+    400030: pPipe4
+    400032: pPipe5
+    400034: pPipe6
+    400036: Right_Back_Wheel
+    400038: Right_Front_Wheel
+    400040: Right_Middle_Wheel
+    400042: //RootNode
+    400044: TurretBase
+    400046: Wheels
+    2100000: lambert1
+    2300000: Body
+    2300002: Exhaust1
+    2300004: Exhaust2
+    2300006: Left_Back_Wheel
+    2300008: Left_Front_Wheel
+    2300010: Left_Middle_Wheel
+    2300012: pCylinder12
+    2300014: pCylinder13
+    2300016: pCylinder14
+    2300018: pCylinder15
+    2300020: pCylinder16
+    2300022: pCylinder7
+    2300024: pPipe1
+    2300026: pPipe2
+    2300028: pPipe3
+    2300030: pPipe4
+    2300032: pPipe5
+    2300034: pPipe6
+    2300036: Right_Back_Wheel
+    2300038: Right_Front_Wheel
+    2300040: Right_Middle_Wheel
+    2300042: TurretBase
+    3300000: Body
+    3300002: Exhaust1
+    3300004: Exhaust2
+    3300006: Left_Back_Wheel
+    3300008: Left_Front_Wheel
+    3300010: Left_Middle_Wheel
+    3300012: pCylinder12
+    3300014: pCylinder13
+    3300016: pCylinder14
+    3300018: pCylinder15
+    3300020: pCylinder16
+    3300022: pCylinder7
+    3300024: pPipe1
+    3300026: pPipe2
+    3300028: pPipe3
+    3300030: pPipe4
+    3300032: pPipe5
+    3300034: pPipe6
+    3300036: Right_Back_Wheel
+    3300038: Right_Front_Wheel
+    3300040: Right_Middle_Wheel
+    3300042: TurretBase
+    4300000: Right_Front_Wheel
+    4300002: Right_Middle_Wheel
+    4300004: Right_Back_Wheel
+    4300006: Left_Front_Wheel
+    4300008: Left_Middle_Wheel
+    4300010: Left_Back_Wheel
+    4300012: pPipe1
+    4300014: pCylinder7
+    4300016: pPipe2
+    4300018: pCylinder12
+    4300020: pPipe3
+    4300022: pCylinder13
+    4300024: pPipe4
+    4300026: pCylinder14
+    4300028: pPipe5
+    4300030: pCylinder15
+    4300032: pPipe6
+    4300034: pCylinder16
+    4300036: TurretBase
+    4300038: Exhaust1
+    4300040: Exhaust2
+    4300042: Body
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
