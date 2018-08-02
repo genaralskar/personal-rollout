@@ -17,7 +17,7 @@ public class EnemyHealthManagerMono : HealthManagerMono
 		
 		manager = ScriptableObject.CreateInstance<HealthManager>();
 		manager.currentHealth = tempCurrentHealth;
-		Debug.Log(manager.currentHealth.FloatValue);
+//		Debug.Log(manager.currentHealth.FloatValue);
 
 		healthUI.healthManager = manager;
 		

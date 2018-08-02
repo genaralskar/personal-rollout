@@ -22,7 +22,7 @@ public class ParticleFlash : MonoBehaviour
 	{
         PopulateDictionary();
 		healthManager = gameObject.GetComponent<EnemyHealthManagerMono>();
-		Debug.Log(healthManager);
+//		Debug.Log(healthManager);
 		healthManager.manager.healthUpdate += StartFlash;
 	}
 

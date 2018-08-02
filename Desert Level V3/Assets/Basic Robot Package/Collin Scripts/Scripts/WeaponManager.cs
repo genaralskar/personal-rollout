@@ -23,6 +23,8 @@ public class WeaponManager : MonoBehaviour
 	{
 		if (canFire)
 		{
+			Debug.Log("FireFireFire!");
+			print(Time.time);
 			canFire = false;
 			weapon.Fire(transform);
 			StopAllCoroutines();

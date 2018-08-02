@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.AI;
 
 [CreateAssetMenu(menuName = "AI/Keep In Front Of Player")]
-public class BallShipAI : AiBase
+public class AiKeepInfrontOfPlayer : AiBase
 {
 
 	public StoreTransform playerTransform;

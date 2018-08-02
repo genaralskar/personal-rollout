@@ -31,7 +31,15 @@ public class TurretFire : MonoBehaviour
 	{
 		while (true)
 		{
-			yield return new WaitForSeconds(weapon.cooldown.FloatValue);
+			if (weapon != null)
+			{
+				yield return new WaitForSeconds(weapon.cooldown.FloatValue);
+			}
+			else
+			{
+				yield return new WaitForSeconds(2f);
+			}
+			
 			if(PlayerBlockedCheck())
 			{
 				weapon.Fire(spawnPoint);

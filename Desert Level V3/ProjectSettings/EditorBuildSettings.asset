@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Desert Level V3.unity
     guid: 38adde16a20e47d4786b208af61a021e
+  - enabled: 0
+    path: Assets/TouchInputTesting.unity
+    guid: d6dab6a04874c3f46af3a0e73b7d930f
   m_configObjects: {}

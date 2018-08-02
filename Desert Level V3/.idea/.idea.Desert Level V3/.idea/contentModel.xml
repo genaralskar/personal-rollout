@@ -185,6 +185,7 @@
           <e p="CameraShake.cs" t="Include" />
         </e>
         <e p="SpawnParticlesOnDisable.cs" t="Include" />
+        <e p="TouchAim.cs" t="Include" />
         <e p="TurretFire.cs" t="Include" />
         <e p="Weapon Stuff" t="Include">
           <e p="ParticleCallBack.cs" t="Include" />

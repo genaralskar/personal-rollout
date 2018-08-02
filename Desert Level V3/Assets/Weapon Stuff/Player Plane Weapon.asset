@@ -11,8 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97e1e82253d240148aa01dcbe3c20e52, type: 3}
   m_Name: Player Plane Weapon
   m_EditorClassIdentifier: 
-  projectile: {fileID: 0}
+  projectile: {fileID: 1536301931884560, guid: 1b7de39eb15630e4bae27c370a478c27, type: 2}
   projectileDamage: {fileID: 11400000, guid: 67db74b415086874b87810bf035c4840, type: 2}
   cooldown: {fileID: 11400000, guid: cb97f2f01a0918c46b9e4ced1d8a01c4, type: 2}
   damageMultiplier: {fileID: 0}
   cooldownMultiplier: {fileID: 0}
+  fireSoundEvent: {fileID: 11400000, guid: 32d8f97bbe01b1649a8d3c54fbec685e, type: 2}
+  hitSoundEvent: {fileID: 11400000, guid: ae4dfa9cb817cd643b809964f9bda918, type: 2}
+  screenShakeOnHitEvent: {fileID: 11400000, guid: 2dcde5b2752679648b06dd5e11dcf9c2,
+    type: 2}
